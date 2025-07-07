@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "QTE.RD"]
 	path = QTE.RD
-	url = https://github.com/cran/QTE.RD
+	url = https://github.com/jungmoyoon/qte.rd
